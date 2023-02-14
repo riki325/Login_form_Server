@@ -1,0 +1,509 @@
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\WebAPI\obj\Debug\net6.0\WebAPI.csproj.AssemblyReference.cache
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\WebAPI\obj\Debug\net6.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\WebAPI\obj\Debug\net6.0\WebAPI.AssemblyInfoInputs.cache
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\WebAPI\obj\Debug\net6.0\WebAPI.AssemblyInfo.cs
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\WebAPI\obj\Debug\net6.0\WebAPI.csproj.CoreCompileInputs.cache
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\WebAPI\obj\Debug\net6.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\WebAPI\obj\Debug\net6.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\WebAPI\bin\Debug\net6.0\appsettings.Development.json
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\WebAPI\bin\Debug\net6.0\appsettings.json
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\WebAPI\bin\Debug\net6.0\WebAPI.exe
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\WebAPI\bin\Debug\net6.0\WebAPI.deps.json
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\WebAPI\bin\Debug\net6.0\WebAPI.runtimeconfig.json
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\WebAPI\bin\Debug\net6.0\WebAPI.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\WebAPI\bin\Debug\net6.0\WebAPI.pdb
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\WebAPI\bin\Debug\net6.0\AutoMapper.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\WebAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\WebAPI\bin\Debug\net6.0\Azure.Core.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\WebAPI\bin\Debug\net6.0\Azure.Identity.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\WebAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\WebAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\WebAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\WebAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\WebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\WebAPI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\WebAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\WebAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\WebAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\WebAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\WebAPI\bin\Debug\net6.0\System.Memory.Data.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\WebAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\WebAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\WebAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\WebAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\WebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\WebAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\WebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\WebAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\WebAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\WebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\WebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\WebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\WebAPI\bin\Debug\net6.0\Common.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\WebAPI\bin\Debug\net6.0\DBContext.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\WebAPI\bin\Debug\net6.0\Repositories.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\WebAPI\bin\Debug\net6.0\Services.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\WebAPI\bin\Debug\net6.0\Common.pdb
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\WebAPI\bin\Debug\net6.0\Services.pdb
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\WebAPI\bin\Debug\net6.0\DBContext.pdb
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\WebAPI\bin\Debug\net6.0\Repositories.pdb
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\WebAPI\obj\Debug\net6.0\staticwebassets.build.json
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\WebAPI\obj\Debug\net6.0\staticwebassets.development.json
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\WebAPI\obj\Debug\net6.0\scopedcss\bundle\WebAPI.styles.css
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\WebAPI\obj\Debug\net6.0\WebAPI.csproj.CopyComplete
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\WebAPI\obj\Debug\net6.0\WebAPI.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\WebAPI\obj\Debug\net6.0\refint\WebAPI.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\WebAPI\obj\Debug\net6.0\WebAPI.pdb
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\WebAPI\obj\Debug\net6.0\WebAPI.genruntimeconfig.cache
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\WebAPI\obj\Debug\net6.0\ref\WebAPI.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\appsettings.Development.json
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\appsettings.json
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\WebAPI.exe
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\WebAPI.deps.json
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\WebAPI.runtimeconfig.json
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\WebAPI.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\WebAPI.pdb
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\AutoMapper.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Azure.Core.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Azure.Identity.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\System.Memory.Data.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Common.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\DBContext.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Repositories.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Services.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Common.pdb
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Services.pdb
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\DBContext.pdb
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Repositories.pdb
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\WebAPI\obj\Debug\net6.0\WebAPI.csproj.AssemblyReference.cache
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\WebAPI\obj\Debug\net6.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\WebAPI\obj\Debug\net6.0\WebAPI.AssemblyInfoInputs.cache
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\WebAPI\obj\Debug\net6.0\WebAPI.AssemblyInfo.cs
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\WebAPI\obj\Debug\net6.0\WebAPI.csproj.CoreCompileInputs.cache
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\WebAPI\obj\Debug\net6.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\WebAPI\obj\Debug\net6.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\WebAPI\obj\Debug\net6.0\staticwebassets.build.json
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\WebAPI\obj\Debug\net6.0\staticwebassets.development.json
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\WebAPI\obj\Debug\net6.0\scopedcss\bundle\WebAPI.styles.css
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\WebAPI\obj\Debug\net6.0\WebAPI.csproj.CopyComplete
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\WebAPI\obj\Debug\net6.0\WebAPI.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\WebAPI\obj\Debug\net6.0\refint\WebAPI.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\WebAPI\obj\Debug\net6.0\WebAPI.pdb
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\WebAPI\obj\Debug\net6.0\WebAPI.genruntimeconfig.cache
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\WebAPI\obj\Debug\net6.0\ref\WebAPI.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\appsettings.Development.json
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\appsettings.json
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\WebAPI.exe
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\WebAPI.deps.json
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\WebAPI.runtimeconfig.json
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\WebAPI.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\WebAPI.pdb
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\AutoMapper.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Azure.Core.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Azure.Identity.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\System.Memory.Data.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Common.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\DBContext.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Repositories.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Services.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Common.pdb
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Services.pdb
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\DBContext.pdb
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Repositories.pdb
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\obj\Debug\net6.0\WebAPI.csproj.AssemblyReference.cache
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\obj\Debug\net6.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\obj\Debug\net6.0\WebAPI.AssemblyInfoInputs.cache
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\obj\Debug\net6.0\WebAPI.AssemblyInfo.cs
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\obj\Debug\net6.0\WebAPI.csproj.CoreCompileInputs.cache
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\obj\Debug\net6.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\obj\Debug\net6.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\obj\Debug\net6.0\staticwebassets.build.json
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\obj\Debug\net6.0\staticwebassets.development.json
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\obj\Debug\net6.0\scopedcss\bundle\WebAPI.styles.css
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\obj\Debug\net6.0\WebAPI.csproj.CopyComplete
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\obj\Debug\net6.0\WebAPI.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\obj\Debug\net6.0\refint\WebAPI.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\obj\Debug\net6.0\WebAPI.pdb
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\obj\Debug\net6.0\WebAPI.genruntimeconfig.cache
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\obj\Debug\net6.0\ref\WebAPI.dll
+E:\פרויקט\פררקטיקום\practikum\WebAPI\obj\Debug\net6.0\WebAPI.csproj.AssemblyReference.cache
+E:\פרויקט\פררקטיקום\practikum\WebAPI\obj\Debug\net6.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\פרויקט\פררקטיקום\practikum\WebAPI\obj\Debug\net6.0\WebAPI.AssemblyInfoInputs.cache
+E:\פרויקט\פררקטיקום\practikum\WebAPI\obj\Debug\net6.0\WebAPI.AssemblyInfo.cs
+E:\פרויקט\פררקטיקום\practikum\WebAPI\obj\Debug\net6.0\WebAPI.csproj.CoreCompileInputs.cache
+E:\פרויקט\פררקטיקום\practikum\WebAPI\obj\Debug\net6.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\פרויקט\פררקטיקום\practikum\WebAPI\obj\Debug\net6.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\פרויקט\פררקטיקום\practikum\WebAPI\obj\Debug\net6.0\WebAPI.dll
+E:\פרויקט\פררקטיקום\practikum\WebAPI\obj\Debug\net6.0\refint\WebAPI.dll
+E:\פרויקט\פררקטיקום\practikum\WebAPI\obj\Debug\net6.0\WebAPI.pdb
+E:\פרויקט\פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\appsettings.Development.json
+E:\פרויקט\פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\appsettings.json
+E:\פרויקט\פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\WebAPI.exe
+E:\פרויקט\פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\WebAPI.deps.json
+E:\פרויקט\פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\WebAPI.runtimeconfig.json
+E:\פרויקט\פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\WebAPI.dll
+E:\פרויקט\פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\WebAPI.pdb
+E:\פרויקט\פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\AutoMapper.dll
+E:\פרויקט\פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\פרויקט\פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\Azure.Core.dll
+E:\פרויקט\פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\Azure.Identity.dll
+E:\פרויקט\פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\פרויקט\פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\פרויקט\פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\פרויקט\פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\פרויקט\פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\פרויקט\פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\פרויקט\פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\פרויקט\פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\פרויקט\פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\פרויקט\פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\פרויקט\פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\פרויקט\פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\פרויקט\פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\פרויקט\פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\פרויקט\פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\פרויקט\פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\פרויקט\פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\פרויקט\פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\פרויקט\פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\פרויקט\פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\פרויקט\פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\פרויקט\פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\פרויקט\פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\פרויקט\פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\פרויקט\פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\פרויקט\פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\פרויקט\פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\פרויקט\פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\פרויקט\פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\פרויקט\פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\פרויקט\פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\פרויקט\פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\פרויקט\פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\System.Memory.Data.dll
+E:\פרויקט\פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\פרויקט\פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\פרויקט\פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\פרויקט\פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\פרויקט\פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\פרויקט\פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\פרויקט\פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\פרויקט\פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\פרויקט\פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\פרויקט\פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\פרויקט\פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\פרויקט\פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\פרויקט\פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\פרויקט\פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\פרויקט\פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\פרויקט\פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\פרויקט\פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\Common.dll
+E:\פרויקט\פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\DBContext.dll
+E:\פרויקט\פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\Repositories.dll
+E:\פרויקט\פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\Services.dll
+E:\פרויקט\פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\Common.pdb
+E:\פרויקט\פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\Services.pdb
+E:\פרויקט\פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\DBContext.pdb
+E:\פרויקט\פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\Repositories.pdb
+E:\פרויקט\פררקטיקום\practikum\WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+E:\פרויקט\פררקטיקום\practikum\WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.WebAPI.props
+E:\פרויקט\פררקטיקום\practikum\WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebAPI.props
+E:\פרויקט\פררקטיקום\practikum\WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebAPI.props
+E:\פרויקט\פררקטיקום\practikum\WebAPI\obj\Debug\net6.0\staticwebassets.pack.json
+E:\פרויקט\פררקטיקום\practikum\WebAPI\obj\Debug\net6.0\staticwebassets.build.json
+E:\פרויקט\פררקטיקום\practikum\WebAPI\obj\Debug\net6.0\staticwebassets.development.json
+E:\פרויקט\פררקטיקום\practikum\WebAPI\obj\Debug\net6.0\scopedcss\bundle\WebAPI.styles.css
+E:\פרויקט\פררקטיקום\practikum\WebAPI\obj\Debug\net6.0\WebAPI.csproj.CopyComplete
+E:\פרויקט\פררקטיקום\practikum\WebAPI\obj\Debug\net6.0\WebAPI.genruntimeconfig.cache
+E:\פרויקט\פררקטיקום\practikum\WebAPI\obj\Debug\net6.0\ref\WebAPI.dll
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\WebAPI.exe
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\WebAPI.deps.json
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\WebAPI.runtimeconfig.json
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\WebAPI.dll
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\WebAPI.pdb
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\Common.dll
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\DBContext.dll
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\Repositories.dll
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\Services.dll
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\Common.pdb
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\Services.pdb
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\DBContext.pdb
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\WebAPI\bin\Debug\net6.0\Repositories.pdb
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\WebAPI\obj\Debug\net6.0\WebAPI.csproj.AssemblyReference.cache
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\WebAPI\obj\Debug\net6.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\WebAPI\obj\Debug\net6.0\WebAPI.AssemblyInfoInputs.cache
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\WebAPI\obj\Debug\net6.0\WebAPI.AssemblyInfo.cs
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\WebAPI\obj\Debug\net6.0\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\WebAPI\obj\Debug\net6.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\WebAPI\obj\Debug\net6.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\WebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\WebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\WebAPI\obj\Debug\net6.0\scopedcss\bundle\WebAPI.styles.css
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\WebAPI\obj\Debug\net6.0\WebAPI.csproj.CopyComplete
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\WebAPI\obj\Debug\net6.0\WebAPI.dll
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\WebAPI\obj\Debug\net6.0\refint\WebAPI.dll
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\WebAPI\obj\Debug\net6.0\WebAPI.pdb
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\WebAPI\obj\Debug\net6.0\WebAPI.genruntimeconfig.cache
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\WebAPI\obj\Debug\net6.0\ref\WebAPI.dll
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\WebAPI.exe
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\WebAPI.deps.json
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\WebAPI.runtimeconfig.json
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\WebAPI.dll
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\WebAPI.pdb
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Common.dll
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\DBContext.dll
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Repositories.dll
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Services.dll
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Common.pdb
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Services.pdb
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\DBContext.pdb
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\bin\Debug\net6.0\Repositories.pdb
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\obj\Debug\net6.0\WebAPI.csproj.AssemblyReference.cache
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\obj\Debug\net6.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\obj\Debug\net6.0\WebAPI.AssemblyInfoInputs.cache
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\obj\Debug\net6.0\WebAPI.AssemblyInfo.cs
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\obj\Debug\net6.0\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\obj\Debug\net6.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\obj\Debug\net6.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\obj\Debug\net6.0\scopedcss\bundle\WebAPI.styles.css
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\obj\Debug\net6.0\WebAPI.csproj.CopyComplete
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\obj\Debug\net6.0\WebAPI.dll
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\obj\Debug\net6.0\refint\WebAPI.dll
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\obj\Debug\net6.0\WebAPI.pdb
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\obj\Debug\net6.0\WebAPI.genruntimeconfig.cache
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\WebAPI\obj\Debug\net6.0\ref\WebAPI.dll

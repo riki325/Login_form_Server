@@ -1,0 +1,102 @@
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\DbContext\bin\Debug\net6.0\DBContext.deps.json
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\DbContext\bin\Debug\net6.0\DBContext.runtimeconfig.json
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\DbContext\bin\Debug\net6.0\DBContext.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\DbContext\bin\Debug\net6.0\DBContext.pdb
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\DbContext\bin\Debug\net6.0\Repositories.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\DbContext\bin\Debug\net6.0\Repositories.pdb
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\DbContext\obj\Debug\net6.0\DBContext.csproj.AssemblyReference.cache
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\DbContext\obj\Debug\net6.0\DBContext.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\DbContext\obj\Debug\net6.0\DBContext.AssemblyInfoInputs.cache
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\DbContext\obj\Debug\net6.0\DBContext.AssemblyInfo.cs
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\DbContext\obj\Debug\net6.0\DBContext.csproj.CoreCompileInputs.cache
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\DbContext\obj\Debug\net6.0\DBContext.csproj.CopyComplete
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\DbContext\obj\Debug\net6.0\DBContext.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\DbContext\obj\Debug\net6.0\refint\DBContext.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\DbContext\obj\Debug\net6.0\DBContext.pdb
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\DbContext\obj\Debug\net6.0\DBContext.genruntimeconfig.cache
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\DbContext\obj\Debug\net6.0\ref\DBContext.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\DbContext\bin\Debug\net6.0\DBContext.deps.json
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\DbContext\bin\Debug\net6.0\DBContext.runtimeconfig.json
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\DbContext\bin\Debug\net6.0\DBContext.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\DbContext\bin\Debug\net6.0\DBContext.pdb
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\DbContext\bin\Debug\net6.0\Repositories.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\DbContext\bin\Debug\net6.0\Repositories.pdb
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\DbContext\obj\Debug\net6.0\DBContext.csproj.AssemblyReference.cache
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\DbContext\obj\Debug\net6.0\DBContext.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\DbContext\obj\Debug\net6.0\DBContext.AssemblyInfoInputs.cache
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\DbContext\obj\Debug\net6.0\DBContext.AssemblyInfo.cs
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\DbContext\obj\Debug\net6.0\DBContext.csproj.CoreCompileInputs.cache
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\DbContext\obj\Debug\net6.0\DBContext.csproj.CopyComplete
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\DbContext\obj\Debug\net6.0\DBContext.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\DbContext\obj\Debug\net6.0\refint\DBContext.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\DbContext\obj\Debug\net6.0\DBContext.pdb
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\DbContext\obj\Debug\net6.0\DBContext.genruntimeconfig.cache
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\DbContext\obj\Debug\net6.0\ref\DBContext.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\DbContext\bin\Debug\net6.0\DBContext.deps.json
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\DbContext\bin\Debug\net6.0\DBContext.runtimeconfig.json
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\DbContext\bin\Debug\net6.0\DBContext.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\DbContext\bin\Debug\net6.0\DBContext.pdb
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\DbContext\bin\Debug\net6.0\Repositories.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\DbContext\bin\Debug\net6.0\Repositories.pdb
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\DbContext\obj\Debug\net6.0\DBContext.csproj.AssemblyReference.cache
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\DbContext\obj\Debug\net6.0\DBContext.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\DbContext\obj\Debug\net6.0\DBContext.AssemblyInfoInputs.cache
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\DbContext\obj\Debug\net6.0\DBContext.AssemblyInfo.cs
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\DbContext\obj\Debug\net6.0\DBContext.csproj.CoreCompileInputs.cache
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\DbContext\obj\Debug\net6.0\DBContext.csproj.CopyComplete
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\DbContext\obj\Debug\net6.0\DBContext.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\DbContext\obj\Debug\net6.0\refint\DBContext.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\DbContext\obj\Debug\net6.0\DBContext.pdb
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\DbContext\obj\Debug\net6.0\DBContext.genruntimeconfig.cache
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\DbContext\obj\Debug\net6.0\ref\DBContext.dll
+E:\פרויקט\פררקטיקום\practikum\DbContext\bin\Debug\net6.0\DBContext.deps.json
+E:\פרויקט\פררקטיקום\practikum\DbContext\bin\Debug\net6.0\DBContext.runtimeconfig.json
+E:\פרויקט\פררקטיקום\practikum\DbContext\bin\Debug\net6.0\DBContext.dll
+E:\פרויקט\פררקטיקום\practikum\DbContext\bin\Debug\net6.0\DBContext.pdb
+E:\פרויקט\פררקטיקום\practikum\DbContext\bin\Debug\net6.0\Repositories.dll
+E:\פרויקט\פררקטיקום\practikum\DbContext\bin\Debug\net6.0\Repositories.pdb
+E:\פרויקט\פררקטיקום\practikum\DbContext\obj\Debug\net6.0\DBContext.csproj.AssemblyReference.cache
+E:\פרויקט\פררקטיקום\practikum\DbContext\obj\Debug\net6.0\DBContext.GeneratedMSBuildEditorConfig.editorconfig
+E:\פרויקט\פררקטיקום\practikum\DbContext\obj\Debug\net6.0\DBContext.AssemblyInfoInputs.cache
+E:\פרויקט\פררקטיקום\practikum\DbContext\obj\Debug\net6.0\DBContext.AssemblyInfo.cs
+E:\פרויקט\פררקטיקום\practikum\DbContext\obj\Debug\net6.0\DBContext.csproj.CoreCompileInputs.cache
+E:\פרויקט\פררקטיקום\practikum\DbContext\obj\Debug\net6.0\DBContext.csproj.CopyComplete
+E:\פרויקט\פררקטיקום\practikum\DbContext\obj\Debug\net6.0\DBContext.dll
+E:\פרויקט\פררקטיקום\practikum\DbContext\obj\Debug\net6.0\refint\DBContext.dll
+E:\פרויקט\פררקטיקום\practikum\DbContext\obj\Debug\net6.0\DBContext.pdb
+E:\פרויקט\פררקטיקום\practikum\DbContext\obj\Debug\net6.0\DBContext.genruntimeconfig.cache
+E:\פרויקט\פררקטיקום\practikum\DbContext\obj\Debug\net6.0\ref\DBContext.dll
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\DbContext\bin\Debug\net6.0\DBContext.deps.json
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\DbContext\bin\Debug\net6.0\DBContext.runtimeconfig.json
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\DbContext\bin\Debug\net6.0\DBContext.dll
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\DbContext\bin\Debug\net6.0\DBContext.pdb
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\DbContext\bin\Debug\net6.0\Repositories.dll
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\DbContext\bin\Debug\net6.0\Repositories.pdb
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\DbContext\obj\Debug\net6.0\DBContext.csproj.AssemblyReference.cache
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\DbContext\obj\Debug\net6.0\DBContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\DbContext\obj\Debug\net6.0\DBContext.AssemblyInfoInputs.cache
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\DbContext\obj\Debug\net6.0\DBContext.AssemblyInfo.cs
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\DbContext\obj\Debug\net6.0\DBContext.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\DbContext\obj\Debug\net6.0\DBContext.csproj.CopyComplete
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\DbContext\obj\Debug\net6.0\DBContext.dll
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\DbContext\obj\Debug\net6.0\refint\DBContext.dll
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\DbContext\obj\Debug\net6.0\DBContext.pdb
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\DbContext\obj\Debug\net6.0\DBContext.genruntimeconfig.cache
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\DbContext\obj\Debug\net6.0\ref\DBContext.dll
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\DbContext\bin\Debug\net6.0\DBContext.deps.json
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\DbContext\bin\Debug\net6.0\DBContext.runtimeconfig.json
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\DbContext\bin\Debug\net6.0\DBContext.dll
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\DbContext\bin\Debug\net6.0\DBContext.pdb
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\DbContext\bin\Debug\net6.0\Repositories.dll
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\DbContext\bin\Debug\net6.0\Repositories.pdb
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\DbContext\obj\Debug\net6.0\DBContext.csproj.AssemblyReference.cache
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\DbContext\obj\Debug\net6.0\DBContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\DbContext\obj\Debug\net6.0\DBContext.AssemblyInfoInputs.cache
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\DbContext\obj\Debug\net6.0\DBContext.AssemblyInfo.cs
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\DbContext\obj\Debug\net6.0\DBContext.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\DbContext\obj\Debug\net6.0\DBContext.csproj.CopyComplete
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\DbContext\obj\Debug\net6.0\DBContext.dll
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\DbContext\obj\Debug\net6.0\refint\DBContext.dll
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\DbContext\obj\Debug\net6.0\DBContext.pdb
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\DbContext\obj\Debug\net6.0\DBContext.genruntimeconfig.cache
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\DbContext\obj\Debug\net6.0\ref\DBContext.dll

@@ -1,0 +1,84 @@
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\Common\bin\Debug\net6.0\Common.deps.json
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\Common\bin\Debug\net6.0\Common.runtimeconfig.json
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\Common\bin\Debug\net6.0\Common.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\Common\bin\Debug\net6.0\Common.pdb
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\Common\obj\Debug\net6.0\Common.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\Common\obj\Debug\net6.0\refint\Common.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\Common\obj\Debug\net6.0\Common.pdb
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\Common\obj\Debug\net6.0\Common.genruntimeconfig.cache
+Y:\Groups\2\מרקוביץ אסתר רבקה\practikum\Common\obj\Debug\net6.0\ref\Common.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\Common\bin\Debug\net6.0\Common.deps.json
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\Common\bin\Debug\net6.0\Common.runtimeconfig.json
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\Common\bin\Debug\net6.0\Common.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\Common\bin\Debug\net6.0\Common.pdb
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\Common\obj\Debug\net6.0\Common.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\Common\obj\Debug\net6.0\refint\Common.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\Common\obj\Debug\net6.0\Common.pdb
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\Common\obj\Debug\net6.0\Common.genruntimeconfig.cache
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\practikum\Common\obj\Debug\net6.0\ref\Common.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\Common\bin\Debug\net6.0\Common.deps.json
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\Common\bin\Debug\net6.0\Common.runtimeconfig.json
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\Common\bin\Debug\net6.0\Common.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\Common\bin\Debug\net6.0\Common.pdb
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\Common\obj\Debug\net6.0\Common.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\Common\obj\Debug\net6.0\refint\Common.dll
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\Common\obj\Debug\net6.0\Common.pdb
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\Common\obj\Debug\net6.0\Common.genruntimeconfig.cache
+Y:\Groups\2\מרקוביץ אסתר רבקה\פרקטיקום\ריקי מרקוביץ פרקטיקום\practikum\Common\obj\Debug\net6.0\ref\Common.dll
+E:\פרויקט\פררקטיקום\practikum\Common\bin\Debug\net6.0\Common.deps.json
+E:\פרויקט\פררקטיקום\practikum\Common\bin\Debug\net6.0\Common.runtimeconfig.json
+E:\פרויקט\פררקטיקום\practikum\Common\bin\Debug\net6.0\Common.dll
+E:\פרויקט\פררקטיקום\practikum\Common\bin\Debug\net6.0\Common.pdb
+E:\פרויקט\פררקטיקום\practikum\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache
+E:\פרויקט\פררקטיקום\practikum\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\פרויקט\פררקטיקום\practikum\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+E:\פרויקט\פררקטיקום\practikum\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+E:\פרויקט\פררקטיקום\practikum\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+E:\פרויקט\פררקטיקום\practikum\Common\obj\Debug\net6.0\Common.dll
+E:\פרויקט\פררקטיקום\practikum\Common\obj\Debug\net6.0\refint\Common.dll
+E:\פרויקט\פררקטיקום\practikum\Common\obj\Debug\net6.0\Common.pdb
+E:\פרויקט\פררקטיקום\practikum\Common\obj\Debug\net6.0\Common.genruntimeconfig.cache
+E:\פרויקט\פררקטיקום\practikum\Common\obj\Debug\net6.0\ref\Common.dll
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\Common\bin\Debug\net6.0\Common.deps.json
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\Common\bin\Debug\net6.0\Common.runtimeconfig.json
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\Common\bin\Debug\net6.0\Common.dll
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\Common\bin\Debug\net6.0\Common.pdb
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\Common\obj\Debug\net6.0\Common.dll
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\Common\obj\Debug\net6.0\refint\Common.dll
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\Common\obj\Debug\net6.0\Common.pdb
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\Common\obj\Debug\net6.0\Common.genruntimeconfig.cache
+C:\Users\User\Documents\תכנות ו\ריקי מרקוביץ פררקטיקום\practikum\Common\obj\Debug\net6.0\ref\Common.dll
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\Common\bin\Debug\net6.0\Common.deps.json
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\Common\bin\Debug\net6.0\Common.runtimeconfig.json
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\Common\bin\Debug\net6.0\Common.dll
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\Common\bin\Debug\net6.0\Common.pdb
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\Common\obj\Debug\net6.0\Common.dll
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\Common\obj\Debug\net6.0\refint\Common.dll
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\Common\obj\Debug\net6.0\Common.pdb
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\Common\obj\Debug\net6.0\Common.genruntimeconfig.cache
+C:\Users\user1\Documents\ריקי מרקוביץ פרקטיקום\practikum\Common\obj\Debug\net6.0\ref\Common.dll
